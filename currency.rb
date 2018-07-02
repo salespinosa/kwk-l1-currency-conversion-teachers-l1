@@ -16,3 +16,11 @@ end
 def gbp_to_usd(pounds)
   pounds / 1.1
 end
+
+def usd_to_aud(dollars)
+  dollars
+end
+
+def aud_to_usd(aussie)
+  aussie
+end
