@@ -24,3 +24,11 @@ end
 def aud_to_usd(aussie)
   aussie
 end
+
+def usd_to_jpy(dollars)
+  dollars
+end
+
+def jpy_to_usd(yen)
+  yen
+end
