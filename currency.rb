@@ -12,3 +12,7 @@ end
 def usd_to_gbp(dollars)
   dollars * 1.1
 end
+
+def gbp_to_usd(poounds)
+  dollars / 1.1
+end
