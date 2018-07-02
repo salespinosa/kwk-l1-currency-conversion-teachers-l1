@@ -8,3 +8,7 @@ end
 def eur_to_usd(euros)
   euros * 1.20
 end
+
+def usd_to_gbp(dollars)
+  dollars * 1.1
+end
